@@ -1,2 +1,3 @@
-# cameraUppgift
- Unity3D 3rd person camera
+# "Manhunt" enemy stealth AI
+
+Ai based on the Enemy behaviour from the Rockstar game Manhunt
